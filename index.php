@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Coming Soon 1</title>
+	<title>Dream Palace | Coming Soon</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -51,7 +51,7 @@
 		<!-- Form -->
 		<div class="size3 flex-col-sb flex-w p-l-75 p-r-75 p-t-45 p-b-45 respon1">
 			<div class="wrap-pic1">
-				<img src="images/icons/logo.png" alt="LOGO">
+				DREAM PALACE
 			</div>
 
 			<div class="p-t-50 p-b-60">
