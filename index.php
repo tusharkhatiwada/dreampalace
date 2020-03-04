@@ -72,7 +72,7 @@
           <div class="py-1">
             <div class="row align-items-center">
               <div class="col-2">
-                <h2 class="mb-0 site-logo"><a href="index.html">Dream<strong>Palace</strong>  </a></h2>
+                <h2 class="mb-0 site-logo"><a href="index">Dream<strong>Palace</strong>  </a></h2>
               </div>
               <div class="col-10">
                 <nav class="site-navigation text-right" role="navigation">
@@ -81,7 +81,7 @@
 
                     <ul class="site-menu js-clone-nav d-none d-lg-block">
                       <li class="active">
-                        <a href="index.html">Home</a>
+                        <a href="index">Home</a>
                       </li>
                       <!--<li class="has-children">-->
                         <!--<a href="classes.html">Classes</a>-->
@@ -104,7 +104,7 @@
                       <!--<li><a href="news.html">News</a></li>-->
                       <!---->
                       <!--<li><a href="about.html">About</a></li>-->
-                      <li><a href="contact.html">Contact</a></li>
+                      <li><a href="contact">Contact</a></li>
                     </ul>
                   </div>
                 </nav>
@@ -328,7 +328,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Restaurant</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span> </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Book Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Book Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -336,7 +336,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Swimming</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span> </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -344,7 +344,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Physical Fitness</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span> </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -352,7 +352,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Zumba</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -360,7 +360,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Yoga</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -368,7 +368,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Spa</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -376,7 +376,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Sauna</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -384,7 +384,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Steam</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -392,7 +392,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Jacquize</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
 
@@ -405,7 +405,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Swimming</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span> </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -413,7 +413,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Physical Fitness</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span> </div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -421,7 +421,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Zumba</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -429,7 +429,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Yoga</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -437,7 +437,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Spa</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -445,7 +445,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Sauna</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -453,7 +453,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Steam</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
             <div class="row-wrap">
@@ -461,7 +461,7 @@
                 <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Jacquize</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>8:00am &mdash; 10:00am</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
-                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact.html" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
+                <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
               </div>
             </div>
 
