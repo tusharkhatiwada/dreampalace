@@ -129,6 +129,7 @@
         <div class="row">
        
           <div class="col-md-12 col-lg-8 mb-5">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14122.760606710195!2d85.32172062999206!3d27.75770142997285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x79c000c4aa1f4247!2sDream%20Palace!5e0!3m2!1sen!2snp!4v1583348188703!5m2!1sen!2snp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             <form style="display: none;" action="#" class="p-5 bg-white">
 
               <div class="row form-group">
