@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Dream Palace Website | Coming Soon</title>
-    <meta name="description" content="Dream palace, health club, tokha" />
+	<title>Dream Palace | Coming Soon</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
