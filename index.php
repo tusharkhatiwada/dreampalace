@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dream Palace| The Health Club | Swimming Pool | Restaurant</title>
+    <title>Dream Palace| The Health Club | Swimming Pool | Restaurant | Gym | Spa | Sauna | Steam Bath | Jacuzzi | Jumba | Yoga</title>
     <meta name="description" content="Dream Palace Pvt. ltd. is the health club located at tokha 3 near Grande international Hospital (GIH). Our services are Swimming Pool, Restaurant, Physical Fitness Center, Gym, Spa, Sauna, Jacuzzi, Zumba, Yoga, Lodging and Fooding. " />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:image" content="images/dream_palace1.jpg"/>
+    <meta property="og:title" content="Dream Palace| The Health Club | Swimming Pool | Restaurant | Gym | Spa | Sauna | Steam Bath | Jacuzzi | Jumba | Yoga" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.dreampalace.com.np"/>
 
     <link rel="apple-touch-icon" sizes="180x180" href="images/icons/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/icons/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/icons/favicon/favicon-16x16.png">
     <link rel="manifest" href="images/icons/favicon/site.webmanifest">
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
     <link rel="stylesheet" href="fonts/icomoon/style.css">
