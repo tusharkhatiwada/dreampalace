@@ -389,7 +389,7 @@
             </div>
             <div class="row-wrap">
               <div class="row bg-white p-4 align-items-center">
-                <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Jacquize</h3></div>
+                <div class="col-sm-3 col-md-3 col-lg-3"><h3 class="h5">Jacuzzi</h3></div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-clock-o mr-3"></span>6:00am &mdash; 10:00pm</div>
                 <div class="col-sm-3 col-md-3 col-lg-3"><span class="icon-person mr-3"></span></div>
                 <div class="col-sm-3 col-md-3 col-lg-3 text-md-right"><a href="contact" class="btn btn-primary pill px-4 mt-3 mt-md-0">Join Now</a></div>
