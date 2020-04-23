@@ -671,7 +671,7 @@
               </div>
               <div class="col-md-6">
                 Tel. + 9851111077 <br>
-                Mail. <a href=""mailto:tokharaju@gmail.com">info@dreampalace.com.np</a>
+                Mail. <a href="mailto:tokharaju@gmail.com">info@dreampalace.com.np</a>
               </div>
             </div>
 
