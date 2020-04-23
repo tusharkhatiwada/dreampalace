@@ -54,7 +54,7 @@
             </div>
             <div class="col-6">
               <div class="d-flex ml-auto">
-                <a href="mailto:info@dreampalace.com.np" class="d-flex align-items-center ml-auto mr-4">
+                <a href="mailto:"tokharaju@gmail.com" class="d-flex align-items-center ml-auto mr-4">
                   <span class="icon-envelope mr-2"></span>
                   <span class="d-none d-md-inline-block">info@dreampalace.com.np</span>
                 </a>
@@ -671,7 +671,7 @@
               </div>
               <div class="col-md-6">
                 Tel. + 9851111077 <br>
-                Mail. info@dreampalace.com.np
+                Mail. <a href=""mailto:tokharaju@gmail.com">info@dreampalace.com.np</a>
               </div>
             </div>
 
