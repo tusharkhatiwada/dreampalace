@@ -180,7 +180,7 @@
               <p class="mb-4"><a href="tel://9851111077">9851 111 077</a></p>
 
               <p class="mb-0 font-weight-bold">Email Address</p>
-              <p class="mb-0"><a href="mailto:info@dreampalace.com.np">info@dreampalace.com.np</a></p>
+              <p class="mb-0"><a href="mailto:tokharaju@gmail.com">info@dreampalace.com.np</a></p>
 
             </div>
             
