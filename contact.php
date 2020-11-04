@@ -174,8 +174,10 @@
               <h3 class="h5 text-black mb-3">Contact Info</h3>
               <p class="mb-0 font-weight-bold">Address</p>
               <p class="mb-4">Tokha 3, Kathmandu <br>Nepal</p>
+                <p class="mb-0 font-weight-bold">Phone</p>
+                <p class="mb-4"><a href="tel://015159723">01 5159 723</a></p>
 
-              <p class="mb-0 font-weight-bold">Phone</p>
+              <p class="mb-0 font-weight-bold">Mobile</p>
               <p class="mb-4"><a href="tel://9851111077">9851 111 077</a></p>
 
               <p class="mb-0 font-weight-bold">Email Address</p>
@@ -185,7 +187,7 @@
             
             <div class="p-4 mb-3 bg-white">
               <h3 class="h5 text-black mb-3">More Info</h3>
-              <p>Dream palace is located in peace and green environment. Free from polution noise</p>
+              <p>Dream palace is located in peace and green environment. Free from polutions</p>
             </div>
           </div>
         </div>
