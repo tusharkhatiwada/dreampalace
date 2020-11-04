@@ -176,6 +176,24 @@
 
     <div class="border-bottom">
       <div class="row no-gutters">
+          <div class="col-md-6 col-lg-3">
+              <div class="w-100 h-100 block-feature p-5 bg-light">
+            <span class="d-block mb-3">
+              <span class="flaticon-padmasana77 display-4"></span>
+            </span>
+                  <h2>Restaurant</h2>
+                  <p>We heartly welcomes you in our fine dining atmosphere which goes well with music, lighting, and art on the walls.</p>
+              </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+              <div class="w-100 h-100 block-feature p-5 bg-light">
+            <span class="d-block mb-3">
+              <span class="flaticon-padmasana77 display-4"></span>
+            </span>
+                  <h2>Room Services</h2>
+                  <p>Furnished and decorated with services food, drinks, swimming, gym... in peace and ecofriendly environment.</p>
+              </div>
+          </div>
         <div class="col-md-6 col-lg-3">
           <div class="w-100 h-100 block-feature p-5 bg-light">
             <span class="d-block mb-3">
@@ -194,24 +212,7 @@
             <p>Dream to be fit. The healthy way of life company. The only bad workout is no to workout. Make yourself stronger than your excuses and turn FAT into FIT</p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="w-100 h-100 block-feature p-5 bg-light">
-            <span class="d-block mb-3">
-              <span class="flaticon-padmasana77 display-4"></span>
-            </span>
-            <h2>Zumba</h2>
-            <p>An aerobic fitness programme featuring movements inspired by various styles of Latin American dance and performed primarily to Latin American dance music.</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="w-100 h-100 block-feature p-5 bg-light">
-            <span class="d-block mb-3">
-              <span class="flaticon-padmasana77 display-4"></span>
-            </span>
-            <h2>Yoga</h2>
-            <p>Yoga is an old discipline. It is both spiritual and physical. Yoga uses breathing techniques, exercise and meditation. It helps to improve health and happiness.</p>
-          </div>
-        </div>
+
       </div>
     </div> <!-- .block-feature -->
 
