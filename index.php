@@ -54,7 +54,7 @@
             </div>
             <div class="col-6">
               <div class="d-flex ml-auto">
-                <a href="mailto:"tokharaju@gmail.com" class="d-flex align-items-center ml-auto mr-4">
+                <a href="mailto:tokharaju@gmail.com" class="d-flex align-items-center ml-auto mr-4">
                   <span class="icon-envelope mr-2"></span>
                   <span class="d-none d-md-inline-block">info@dreampalace.com.np</span>
                 </a>
@@ -122,7 +122,7 @@
   
 
     <div class="slide-one-item home-slider owl-carousel">
-      <div class="site-blocks-cover overlay " style="background-image: url(images/dreampalace-swimming-pool.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay " style="background-image: url(images/swimming.jpg)" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
@@ -132,7 +132,7 @@
           </div>
         </div>
       </div>
-      <div class="site-blocks-cover overlay" style="background-image: url(images/dreampalace-night-view.jpeg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/restaurant.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
