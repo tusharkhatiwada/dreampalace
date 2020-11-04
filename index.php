@@ -47,10 +47,9 @@
         <div class="container py-2">
           <div class="row align-items-center">
             <div class="col-6">
-              <a href="#" class="p-2 pl-0"><span class="icon-twitter"></span></a>
               <a href="https://www.facebook.com/birkrishnalawat" target="_blank" class="p-2 pl-0"><span class="icon-facebook"></span></a>
-              <a href="#" class="p-2 pl-0"><span class="icon-linkedin"></span></a>
-              <a href="#" class="p-2 pl-0"><span class="icon-instagram"></span></a>
+
+              <a href="https://www.instagram.com/dream_palace11/" class="p-2 pl-0"><span class="icon-instagram"></span></a>
             </div>
             <div class="col-6">
               <div class="d-flex ml-auto">
