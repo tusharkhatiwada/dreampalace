@@ -125,7 +125,7 @@
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
 
-              <h1>Get In Shape &amp; Be <strong>Healthy</strong></h1>
+              <h1>Dream Palace<strong>Night View</strong></h1>
             </div>
           </div>
         </div>
@@ -134,7 +134,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Dare to be  <strong>great</strong></h1>
+              <h1>Dream Palace  <strong>Restaurant</strong></h1>
             </div>
           </div>
         </div>
@@ -144,7 +144,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1>No Pain <strong>No gain</strong></h1>
+              <h1>Dream Palace<strong>Room Services</strong></h1>
             </div>
           </div>
         </div>
@@ -155,7 +155,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Rest a while and <strong>run a mile</strong></h1>
+              <h1>Dream Palace<strong>Day View</strong></h1>
             </div>
           </div>
         </div>
@@ -165,7 +165,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Build Your <strong>Body</strong> Strong</h1>
+              <h1>Dream Palace<strong>Swimming Pool</strong></h1>
             </div>
           </div>
         </div>
