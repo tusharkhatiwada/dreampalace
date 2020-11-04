@@ -123,9 +123,8 @@
       <div class="site-blocks-cover overlay " style="background-image: url(images/dreampalace_nightview.jpg)" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-
-              <h1>Dream Palace<strong>Night View</strong></h1>
+            <div class="col-md-12 text-center" data-aos="fade">
+              <h1>Dream Palace<br><strong>Night View</strong></h1>
             </div>
           </div>
         </div>
@@ -133,8 +132,8 @@
       <div class="site-blocks-cover overlay" style="background-image: url(images/restaurant.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Dream Palace  <strong>Restaurant</strong></h1>
+            <div class="col-md-12 text-center" data-aos="fade">
+              <h1>Dream Palace<br><strong>Restaurant</strong></h1>
             </div>
           </div>
         </div>
@@ -143,34 +142,35 @@
       <div class="site-blocks-cover overlay" style="background-image: url(images/dreampalace5.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Dream Palace<strong>Room Services</strong></h1>
+            <div class="col-md-12 text-center" data-aos="fade">
+              <h1>Dream Palace<br><strong>Room Services</strong></h1>
             </div>
           </div>
         </div>
       </div>
 
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/dreampalace-swimming-pool-2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Dream Palace<strong>Day View</strong></h1>
-            </div>
-          </div>
-        </div>
-      </div>  
+
 
       <div class="site-blocks-cover overlay" style="background-image: url(images/swimming.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1>Dream Palace<strong>Swimming Pool</strong></h1>
+            <div class="col-md-12 text-center" data-aos="fade">
+              <h1>Dream Palace<br><strong>Swimming Pool</strong></h1>
             </div>
           </div>
         </div>
-      </div> 
-      
+      </div>
+        <div class="site-blocks-cover overlay" style="background-image: url(images/dreampalace-swimming-pool-2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-md-12 text-center" data-aos="fade">
+                        <h1>Dream Palace<br><strong>Day View</strong></h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
     </div>
 
