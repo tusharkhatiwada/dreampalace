@@ -53,9 +53,9 @@
                   <span class="icon-envelope mr-2"></span>
                   <span class="d-none d-md-inline-block">info@dreampalace.com.np</span>
                 </a>
-                <a href="tel://9851111077" class="d-flex align-items-center">
+                <a href="tel://015159723" class="d-flex align-items-center">
                   <span class="icon-phone mr-2"></span>
-                  <span class="d-none d-md-inline-block">9851 111 077</span>
+                  <span class="d-none d-md-inline-block">015159723</span>
                 </a>
               </div>
             </div>
